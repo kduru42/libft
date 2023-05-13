@@ -5,8 +5,8 @@ This project is about coding a C library. It contains a lot of general purpose f
 
 Functions that is implemented in the libft project:
 
-  • isalpha
-  • isdigit
+  • isalpha_
+  • isdigit_
   • isalnum
   • isascii
   • isprint
