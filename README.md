@@ -18,40 +18,40 @@ Functions that is implemented in the libft project:
   • strlcpy <br />
   • strlcat <br />
   • toupper <br />
-  • tolower
-  • strchr
-  • strrchr
-  • strncmp
-  • memchr
-  • memcmp
-  • strnstr
-  • atoi
-  • calloc
-  • strdup
-  • substr
-  • strnstr
-  • strjoin
-  • strtrim
-  • split
-  • itoa
-  • strmapi
-  • striteri
-  • putchar_fd
-  • putstr_fd
-  • putendl_fd
-  • putnbr_fd
+  • tolower <br />
+  • strchr <br />
+  • strrchr <br />
+  • strncmp <br />
+  • memchr <br />
+  • memcmp <br />
+  • strnstr <br />
+  • atoi <br />
+  • calloc <br />
+  • strdup <br />
+  • substr <br />
+  • strnstr <br />
+  • strjoin <br />
+  • strtrim <br />
+  • split <br />
+  • itoa <br />
+  • strmapi <br />
+  • striteri <br />
+  • putchar_fd <br />
+  • putstr_fd <br />
+  • putendl_fd <br />
+  • putnbr_fd <br />
 
 Bonus functions that operates on linked lists:
 
-  • ft_lstnew
-  • ft_lstadd_front
-  • ft_lstsize
-  • ft_lstlast
-  • ft_lstadd_back
-  • ft_lstdelone
-  • ft_lstclear
-  • ft_lstiter
-  • ft_lstmap
+  • ft_lstnew <br />
+  • ft_lstadd_front <br />
+  • ft_lstsize <br />
+  • ft_lstlast <br />
+  • ft_lstadd_back <br />
+  • ft_lstdelone <br />
+  • ft_lstclear <br />
+  • ft_lstiter <br />
+  • ft_lstmap <br />
  
  
 # Launch
