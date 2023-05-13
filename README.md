@@ -5,19 +5,19 @@ This project is about coding a C library. It contains a lot of general purpose f
 
 Functions that is implemented in the libft project:
 
-  • isalpha_
-  • isdigit_
-  • isalnum
-  • isascii
-  • isprint
-  • strlen
-  • memset
-  • bzero
-  • memcpy
-  • memmove
-  • strlcpy
-  • strlcat
-  • toupper
+  • isalpha <br />
+  • isdigit <br />
+  • isalnum <br />
+  • isascii <br />
+  • isprint <br />
+  • strlen <br />
+  • memset <br />
+  • bzero <br />
+  • memcpy <br />
+  • memmove <br />
+  • strlcpy <br />
+  • strlcat <br />
+  • toupper <br />
   • tolower
   • strchr
   • strrchr
